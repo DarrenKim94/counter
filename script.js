@@ -1,0 +1,1 @@
+let addCount = document.getElementById('add')
